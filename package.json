@@ -1,0 +1,15 @@
+{
+  "name": "stylelint-config-sigbit",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Andreas Antonsson <andreas@sigbit.se>",
+  "license": "MIT",
+  "dependencies": {
+    "stylelint-config-hudochenkov": "^5.0.0",
+    "stylelint-config-recommended-scss": "^4.2.0",
+    "stylelint-order": "^4.1.0"
+  },
+  "renovate": {
+    "schedule": "before 3am on the first day of the month"
+  }
+}
