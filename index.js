@@ -9,7 +9,7 @@ module.exports = {
     'length-zero-no-unit': true,
     'number-leading-zero': 'always',
     'number-no-trailing-zeros': true,
-    'unit-blacklist': ['ms'],
+    'unit-disallowed-list': ['ms'],
     'order/order': [
       'dollar-variables',
       'custom-properties',
